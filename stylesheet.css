@@ -1,0 +1,95 @@
+/*NavBar*/
+.navbar-pic{
+    border-radius: 10%;
+    width: 60px;
+    height: 60px;
+}
+
+.logo {
+    margin-left: 50px;
+}
+
+.navbar-custom{
+    background-color: white;
+}
+
+.header-over{
+    background-color: #D3D3D3;
+    width: auto;
+    height: 50px;
+}
+/*background-color: #D3D3D3;*/
+/*background-color: #E9ECEF;*/
+
+.header-under{
+    background-color: #4695B9;
+    width: auto;
+    height: 50px;
+}
+/*background-color: #49A8B6;*/
+
+.navbar-placement{
+  margin-left: 150px;
+}
+
+.navbaritem-settings{
+    font-size: 28px;
+    margin-right: 20px;
+    
+}
+
+/*Footer*/
+
+.footer{
+    background-color: #4695B9;
+    margin-top: 50px;
+    position: absolute;
+    bottom:0;
+    width:100%;
+    height:50px;  
+}
+
+.align-footer-text{
+    text-align: center!important;
+}
+
+
+/* Home-page*/
+
+.body-background{
+    background-color: #D3D3D3;
+}
+
+.jumbotron-div{
+    background-color: #E9ECEF;
+    margin-top: 50px;
+}
+
+.btn-primary{
+    background-color: #4695B9;
+    border-color: #438ebc;
+}
+
+.btn-primary:hover {
+    background-color: #3b8bc4; 
+  }
+
+/* ABOUT-page*/
+
+.about-pic{
+    height: 300px;
+    width: 225px;
+    border-radius: 10%;
+}
+
+.about-list-item{
+    margin-top: 2px;
+}
+
+.footer-about{
+    position: inherit; 
+}
+
+ul{
+    list-style-type: none;
+}
