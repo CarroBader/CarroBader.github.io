@@ -74,6 +74,16 @@
     background-color: #3b8bc4; 
   }
 
+  .timeline-pic{
+   margin-bottom: 50px;
+   margin-top: 50px;
+   margin-left: 180px;
+  }
+
+  .headline{
+      margin-left: 5px;
+  }
+
 /* ABOUT-page*/
 
 .about-pic{
@@ -86,10 +96,42 @@
     margin-top: 2px;
 }
 
-.footer-about{
+.footer-scroll{
     position: inherit; 
 }
 
 ul{
     list-style-type: none;
+}
+
+.row-space{
+    margin-bottom: 10px;
+}
+
+
+.language-list{
+    margin-bottom: -15px;
+    margin-left: -25px;
+}
+
+.about-heading{
+    margin-top: 10px;
+}
+
+.language-heading{
+    margin-bottom: -10px;
+    margin-top: -10px;
+    margin-left: -25px;
+}
+
+.interest-heading{
+    margin-left: 15px;
+    margin-bottom: 3px;
+    margin-top: 5px;
+}
+
+.logo-pic{
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
 }
