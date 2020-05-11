@@ -53,6 +53,9 @@
     text-align: center!important;
 }
 
+.footer-scroll{
+    position: inherit; 
+}
 
 /* Home-page*/
 
@@ -95,10 +98,6 @@
 
 .about-list-item{
     margin-top: 2px;
-}
-
-.footer-scroll{
-    position: inherit; 
 }
 
 ul{
